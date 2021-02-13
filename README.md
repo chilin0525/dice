@@ -1,2 +1,2 @@
 # dice
-ez project to pratice DOM
+ez project to pratice DOM 
